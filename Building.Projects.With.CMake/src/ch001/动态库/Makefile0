@@ -8,7 +8,7 @@ liba.so: a.o
 	gcc -shared a.o -o liba.so
 
 a.o: a.c
-	gcc -fPIC -c .a.c -o a.o
+	gcc -fPIC -c a.c -o a.o
 
 clean:
 	rm *.o *.so main || true
