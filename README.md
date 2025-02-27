@@ -3,4 +3,5 @@
 - [GNU Make项目管理](Managing.Projects.With.GUN.Make)
 - [CMake Cookbook](CMake.Cookbook)
 - [CMake构建实战](Building.Projects.With.CMake)
+- [Modern CMake for C++](Modern.CMake.For.Cpp)
 
